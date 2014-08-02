@@ -8,7 +8,7 @@
 ### Will Pangman
 1. Thursday (early to late evening UTC)
 
-###  PieRebel (Nick
+###  PieRebel (Nick)
 1. Thursday (strong preference)
 2. Wednesday
 3. Friday
