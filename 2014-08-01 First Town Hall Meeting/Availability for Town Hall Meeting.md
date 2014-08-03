@@ -11,7 +11,6 @@
 ###  PieRebel (Nick)
 1. Thursday (strong preference)
 2. Wednesday
-3. Friday
 
 ### Derrik J
 1. Wednesday
@@ -29,5 +28,17 @@
 
 ### Marni Melrose
 1. Friday
+
+### David Gilson
+1. Thursday
+2. Friday
+3. Wednesday
+
+### Thomas Hunt
+1. Wednesday
+2. Thursday
+
+
+
 
 
