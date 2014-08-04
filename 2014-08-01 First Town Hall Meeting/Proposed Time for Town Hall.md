@@ -1,4 +1,3 @@
-
 Thank-you to everyone who has signed up for the Town Hall this week.
 
 Based on the preferences I propose the following. **Thursday  [3pm PDT / 6pm EDT / 11pm BST(UK)**](http://www.worldtimebuddy.com/?qm=1&lid=1609350,2643743,4160021,5391959&h=2643743&date=2014-8-4&sln=23-24)
