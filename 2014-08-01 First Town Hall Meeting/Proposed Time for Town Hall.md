@@ -20,10 +20,12 @@ Fundraising using [Jurisdictional Arbitrage](http://www.reddit.com/r/worldcrypto
 
 # Issue 2
 **Decentralise the World campaign**
- As a test bed for a campaign Nick and Chris have suggested distributing Open Source software as well as the block chain.
+
+As a test bed for a campaign Nick and Chris have suggested distributing Open Source software as well as the block chain.
 
 # Issue 3
 **Show ideas and formats**
+
 Who wants to work up a schedule for the network?
 
 How should we select shows?
@@ -32,6 +34,7 @@ Could we have one day per week where new people audition and the audience votes 
 
 # Issue 4
 **World Crypto Network website and forum**
+
 What should it communicate?
 
 Would anyone like to break off in to a team to design it?
