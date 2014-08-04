@@ -7,7 +7,8 @@ For anyone who cannot make it on Thursday I will also be available on the Friday
 
 The agenda so far based on feedback and my own thoughts:
 
-1.  **Formalising the way World Crypto Network is run**
+# Issue 1
+**Formalising the way World Crypto Network is run**
 At the moment it is run almost entirely by Thom.
 
 If we want to see WCN continue how would we like to sustain it?
@@ -18,19 +19,20 @@ If you want to take part please download [the latest version](https://bitcoinarm
 
 Fundraising using [Jurisdictional Arbitrage](http://www.reddit.com/r/worldcryptonetwork/comments/2cdb8i/jurisdictional_arbitrage/) by distributing keys with people across the world. @ddscout on Reddit has said he feels it is a bit paranoid.  
 
-2.  **Decentralise the World campaign**
+# Issue 2
+**Decentralise the World campaign**
  As a test bed for a campaign Nick and Chris have suggested distributing Open Source software as well as the block chain.
 
-3. **Show ideas and formats**
+# Issue 3
+**Show ideas and formats**
 Who wants to work up a schedule for the network?
 
 How should we select shows?
 
 Could we have one day per week where new people audition and the audience votes them in using the block chain for voting?
 
-
-4. **World Crypto Network website and forum**
+# Issue 4
+**World Crypto Network website and forum**
 What should it communicate?
-Would anyone like to break off in to a team to design it?
 
-5. 
+Would anyone like to break off in to a team to design it?
