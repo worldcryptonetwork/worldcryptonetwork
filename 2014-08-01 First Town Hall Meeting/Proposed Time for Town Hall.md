@@ -8,7 +8,8 @@ For anyone who cannot make it on Thursday I will also be available on the Friday
 The agenda so far based on feedback and my own thoughts:
 
 1 **Formalising the way World Crypto Network is run**
-* At the moment it is run almost entirely by Thom.*
+* At the moment it is run almost entirely by Thom.
 * If we want to see WCN continue how would we like to sustain it?
-* We have comments already on our [Sub Reddit](http://www.reddit.com/r/worldcryptonetwork/comments/2bn93t/lets_decentralise_the_world_and_make_world_crypto/) including setting up multi-signature wallets with Bitcoin Armory.
+* We have comments already on our [Sub Reddit](http://www.reddit.com/r/worldcryptonetwork/comments/2bn93t/lets_decentralise_the_world_and_make_world_crypto/) including setting up multi-signature wallets with [Bitcoin Armory](https://bitcoinarmory.com). 
+* If you want to take part please download [the latest version](https://bitcoinarmory.com/download/).
 2. 
