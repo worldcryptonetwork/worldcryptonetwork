@@ -43,5 +43,9 @@
 2. Thursday
 3. Friday is possible
 
+### Bits Be Trippin
+1. Thursday (Evening US)
+2. Friday 
+
 
 
