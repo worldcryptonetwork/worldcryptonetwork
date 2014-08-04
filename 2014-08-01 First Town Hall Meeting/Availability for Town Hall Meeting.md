@@ -38,7 +38,10 @@
 1. Wednesday
 2. Thursday
 
-
+### Jamie Nelson
+1. Wednesday
+2. Thursday
+3. Friday is possible
 
 
 
