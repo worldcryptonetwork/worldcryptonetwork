@@ -3,12 +3,11 @@ Thank-you to everyone who has signed up for the Town Hall this week.
 
 Based on the preferences I propose the following. **Thursday  [3pm PDT / 6pm EDT / 11pm BST(UK)**](http://www.worldtimebuddy.com/?qm=1&lid=1609350,2643743,4160021,5391959&h=2643743&date=2014-8-4&sln=23-24)
 
-For anyone who cannot make it on Thursday I will also be available on the Friday for any follow up discussions. 
-
-The agenda so far based on feedback and my own thoughts:
+For anyone who cannot make it on Thursday I will also be available on the Friday for any follow up discussions. Below is the agenda so far based on feedback and my own thoughts. Please comment below if you would like to see anything added please leave your comments below or email me.
 
 # Issue 1
 **Formalising the way World Crypto Network is run**
+
 At the moment it is run almost entirely by Thom.
 
 If we want to see WCN continue how would we like to sustain it?
