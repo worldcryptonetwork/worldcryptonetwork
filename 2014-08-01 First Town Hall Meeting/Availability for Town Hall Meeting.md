@@ -47,5 +47,6 @@
 1. Thursday (Evening US)
 2. Friday 
 
-
+### Davi Barker
+1. Thursday
 
