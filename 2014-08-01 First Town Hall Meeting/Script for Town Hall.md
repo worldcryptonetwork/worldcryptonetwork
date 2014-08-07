@@ -37,6 +37,9 @@ Does anyone want to help out Nick and Chris?
 **Show ideas and formats**
 
 Ideas for different formats!
+What time zones do we want to appeal to more?
+
+
 
 
 
