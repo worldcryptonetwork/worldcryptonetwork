@@ -1,10 +1,10 @@
 
 # Intro
 
-Question: how many anarchists does it take to set up a distributed autonomous corporation?
-
 It is block height…
 Merkle Root beginning: 
+
+Question: how many anarchists does it take to set up a distributed autonomous corporation?
 
 Give out timestamps, checkin with us at this time.
 
@@ -20,8 +20,8 @@ I have prepared a business model canvas: [World Crypto Network Business Canvas](
 1. Elections with sortition, self appointment?
 2. Should we have **audition days** where audience members can join the network?
 3. Fund raising: 
-3a. Dustin aka BTCArtGallery has suggested we start our own coin?
-3b. Could we do a crowd funding campaign for equivalent of 1 year Bitcoin Foundation membership?
+	3a. Dustin aka BTCArtGallery has suggested we start our own coin?
+	3b. Could we do a crowd funding campaign for equivalent of 1 year Bitcoin Foundation membership?
 4. We should reward Redditors for featuring articles
 
 **How committed are you 1-10?**
@@ -36,9 +36,14 @@ Does anyone want to help out Nick and Chris?
 **Issue 3**  
 **Show ideas and formats**
 
-Ideas for different formats!
-What time zones do we want to appeal to more?
+1. Ideas for different formats!
+2. What time zones do we want to appeal to more?
+3. WCN2 Channel
 
+**Issue 4**  
+**World Crypto Network website and forum**
+
+Wha 
 
 
 
