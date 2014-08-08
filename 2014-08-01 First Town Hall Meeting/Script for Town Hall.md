@@ -1,12 +1,10 @@
 
 # Intro
 
-It is block height…
-Merkle Root beginning: 
+It is block height: 314, 453
+Merkle Root beginning: 075ebd
 
-Question: how many anarchists does it take to set up a distributed autonomous corporation?
-
-Give out timestamps, checkin with us at this time.
+Question: how many anarchists does it take to set up a distributed autonomous corporation? Let’s find out.
 
 
 # Issue 1
@@ -40,10 +38,12 @@ Does anyone want to help out Nick and Chris?
 2. What time zones do we want to appeal to more?
 3. WCN2 Channel
 
+How often to do these town halls?
+
 **Issue 4**  
 **World Crypto Network website and forum**
 
-Wha 
+(This was integrated as part of Issue 1)
 
 
 
