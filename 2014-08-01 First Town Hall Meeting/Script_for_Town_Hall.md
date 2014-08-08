@@ -18,8 +18,8 @@ I have prepared a business model canvas: [World Crypto Network Business Canvas](
 1. Elections with sortition, self appointment?  
 2. Should we have **audition days** where audience members can join the network?  
 3. Fund raising:  
-	3a. Dustin aka BTCArtGallery has suggested we start our own coin?  
-	3b. Could we do a crowd funding campaign for equivalent of 1 year Bitcoin Foundation membership?  
+		3a. Dustin aka BTCArtGallery has suggested we start our own coin?  
+		3b. Could we do a crowd funding campaign for equivalent of 1 year Bitcoin Foundation membership?  
 4. How should we reward Redditors for featuring articles?
 
 **How committed are you 1-10?**
