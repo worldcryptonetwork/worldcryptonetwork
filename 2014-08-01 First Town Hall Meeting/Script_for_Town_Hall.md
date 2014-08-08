@@ -16,9 +16,7 @@ I have prepared a business model canvas: [World Crypto Network Business Canvas](
 
 **If we want to see WCN continue how would we like to sustain it?**  
 1. Elections with sortition, self appointment?  
-
 2. Should we have **audition days** where audience members can join the network?  
-
 3. Fund raising:   
 
 	3a. Dustin aka BTCArtGallery has suggested we start our own coin?  
