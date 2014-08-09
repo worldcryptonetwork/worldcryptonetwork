@@ -2,7 +2,7 @@
 # WCN 1st TownHallMeeting / thoughts & notes
 ## by [Anna Kurth](https://twitter.com/AnnaKNonE)
 
-# Administration:
+### Administration:
 
 Have a googleSheet where all enter 
 - name/persona
@@ -15,7 +15,7 @@ but: how to make the sheet visible to all that want in but prevent it from spamm
 
 
 
-# List of Tasks 
+### List of Tasks 
 
 that could be / need to be executed / how one can contribute:
 
@@ -50,7 +50,7 @@ New Logo Design - if necessary: Open contest, every draft that's been sent in (p
 
 
 
-# Video content contribution
+### Video content contribution
 
 
 Short prerecorded clips sent in by ppl as Davi suggested @29:00 (similar to OpenMinute on BTC_Rush) 
