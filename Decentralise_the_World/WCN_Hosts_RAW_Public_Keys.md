@@ -1,5 +1,7 @@
 #  RAW Key Addresses
 
+You can learn how to create a multi-sig address in [Armory here](http://vimeo.com/96983886). You only need the publicly available information below along with the [latest version of Armory](https://bitcoinarmory.com/download/).
+
 ### Will Pangman
 0457ccfef741f54185c8c891f7e0ef350b622d2e360112c6ee456dcf7eaa75383f249a45866153ed7c984f09a3b3af367f41af2b6d47a917e3c72158baba039f26
 
