@@ -16,3 +16,6 @@ You can learn how to create a multi-sig address in [Armory here](http://vimeo.co
 
 ### ChrisJ
 043d807715157e4822c412dff2812cab94fddde935648dcd4fea5e8d86b00550d18c5f7619d4ff7980c935c5f066778a6fbf55fd5627af96cca674f47c5a805d16
+
+### David Gilson
+045d41315693e0987bb633a7aebfe61714d9c5a7f74bf72d861235f66ecdbceda8b68d6a59e45ed02439649bc55d54b08dd9a34bdd17321463ccdcbf0f0be2724a
