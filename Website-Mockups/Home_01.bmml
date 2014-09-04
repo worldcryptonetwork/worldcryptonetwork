@@ -1,0 +1,163 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="3231" measuredH="1816" mockupW="3084" mockupH="1678">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="307" y="138" w="1134" h="1678" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>World%20Crypto%20Network%0Ahttp%3A//worldcryptonetwork.com/jointherevolution</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="333" y="339" w="745" h="414" measuredW="300" measuredH="200" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="1224" y="233" w="183" h="-1" measuredW="120" measuredH="25" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="__group__" x="344" y="1143" w="659" h="398" measuredW="659" measuredH="398" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="659" h="398" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="19"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="38" y="37" w="166" h="151" measuredW="300" measuredH="200" zOrder="1" locked="false" isInGroup="19"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="240" y="37" w="166" h="151" measuredW="300" measuredH="200" zOrder="2" locked="false" isInGroup="19"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="442" y="37" w="166" h="151" measuredW="300" measuredH="200" zOrder="3" locked="false" isInGroup="19"/>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="38" y="221" w="166" h="151" measuredW="300" measuredH="200" zOrder="4" locked="false" isInGroup="19"/>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="240" y="221" w="166" h="151" measuredW="300" measuredH="200" zOrder="5" locked="false" isInGroup="19"/>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="442" y="221" w="166" h="151" measuredW="300" measuredH="200" zOrder="6" locked="false" isInGroup="19"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="20" controlTypeID="__group__" x="1093" y="339" w="314" h="405" measuredW="596" measuredH="405" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="314" h="405" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="20">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="47" y="21" w="165" h="-1" measuredW="165" measuredH="43" zOrder="1" locked="false" isInGroup="20">
+          <controlProperties>
+            <text>%23Trollbox</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="64" y="340" w="240" h="50" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="20"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="6" y="341" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="20">
+          <controlProperties>
+            <icon>ContactIcon%7Clarge</icon>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="20" y="90" w="275" h="39" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="20">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221131.9833984375%2C306.6%2C1179.42041015625%2C319.6%22%20href%3D%22http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%22%20alt%3D%22web%20link%22%20id%3D%226%22%20target%3D%22_blank%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="20" y="138" w="275" h="39" measuredW="275" measuredH="80" zOrder="5" locked="false" isInGroup="20">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221131.9833984375%2C354.6%2C1179.42041015625%2C367.6%22%20href%3D%22http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%22%20alt%3D%22web%20link%22%20id%3D%227%22%20target%3D%22_blank%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="20" y="186" w="275" h="39" measuredW="275" measuredH="80" zOrder="6" locked="false" isInGroup="20">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221131.9833984375%2C402.6%2C1179.42041015625%2C415.6%22%20href%3D%22http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%22%20alt%3D%22web%20link%22%20id%3D%228%22%20target%3D%22_blank%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="20" y="234" w="275" h="39" measuredW="275" measuredH="80" zOrder="7" locked="false" isInGroup="20">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221131.9833984375%2C450.6%2C1179.42041015625%2C463.6%22%20href%3D%22http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%22%20alt%3D%22web%20link%22%20id%3D%229%22%20target%3D%22_blank%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="20" y="282" w="275" h="39" measuredW="275" measuredH="80" zOrder="8" locked="false" isInGroup="20">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221131.9833984375%2C498.6%2C1179.42041015625%2C511.6%22%20href%3D%22http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%22%20alt%3D%22web%20link%22%20id%3D%2210%22%20target%3D%22_blank%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Button" x="333" y="773" w="158" h="52" measuredW="151" measuredH="36" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <size>28</size>
+        <text>Subscribe</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Image" x="318" y="215" w="79" h="61" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::MenuBar" x="349" y="1065" w="343" h="59" measuredW="189" measuredH="29" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::StickyNote" x="147" y="1092" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Dynamic%20Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="2314" y="530" w="360" h="264" measuredW="300" measuredH="200" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Title" x="2425" y="453" w="-1" h="-1" measuredW="139" measuredH="43" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Current</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Title" x="1906" y="453" w="-1" h="-1" measuredW="225" measuredH="43" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Watch%20Again</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Title" x="2882" y="453" w="-1" h="-1" measuredW="203" measuredH="43" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Coming%20Up</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="1836" y="530" w="360" h="264" measuredW="300" measuredH="200" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="2803" y="530" w="360" h="264" measuredW="300" measuredH="200" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="584" y="841" w="170" h="125" measuredW="300" measuredH="200" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="378" y="841" w="170" h="125" measuredW="300" measuredH="200" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="793" y="841" w="170" h="125" measuredW="300" measuredH="200" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="1001" y="841" w="170" h="125" measuredW="300" measuredH="200" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="1374" y="297" w="29" h="25" measuredW="1139" measuredH="926" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Twitter_logo_blue.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Paragraph" x="876" y="301" w="503" h="31" measuredW="275" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221159.81884765625%2C163%2C1207.255859375%2C176%22%20href%3D%22http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%22%20alt%3D%22web%20link%22%20id%3D%2239%22%20target%3D%22_blank%22/%3E</map>
+        <text>A%20*paragraph*%20of%20%7Bcolor%3Ared%7Dtext%7Bcolor%7D%20with%20an%20%5Bunassigned%20link%5D.%20A%20_second_%20%26row%26%20of%20%7Etext%7E%20with%20a%20%5Bweb%20link%5D%28http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::HRule" x="307" y="276" w="1127" h="-1" measuredW="100" measuredH="10" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="1198" y="841" w="170" h="125" measuredW="300" measuredH="200" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Canvas" x="1383" y="840" w="41" h="126" measuredW="100" measuredH="70" zOrder="23" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Canvas" x="321" y="840" w="41" h="126" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Title" x="1389" y="883" w="-1" h="-1" measuredW="29" measuredH="43" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Title" x="327" y="882" w="-1" h="-1" measuredW="26" measuredH="43" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3C</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::HRule" x="1051" y="1148" w="338" h="-1" measuredW="100" measuredH="10" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Paragraph" x="1051" y="1173" w="347" h="368" measuredW="275" measuredH="80" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20is%20a%20demo%20of%20the%20video%20site%20based%20on%20the%20deTube%20Theme%2C%20in%20this%20demo%2C%20default%20single%20video%20post%20layout%20and%20default%20home%20featured%20content%20layout%20is%20full%20width.%0A%20%0AdeTube%20is%20a%20Professional%20WordPress%20Theme%20designed%20for%20Video%20sites%20and%20News/Magazine%20sites.%0A%20%0AThis%20theme%20will%20help%20you%20get%20a%20professional%20video/news%20site%20up%20and%20running%20quickly%2C%20it%20is%20inspired%20by%20the%20popular%20websites%3A%20YouTube%2C%20Vimeo%20and%20Dribbble.%0A%20%0ANo%20modest%20to%20say%20that%20it%20is%20the%20most%20powerful%20video%20WordPress%20theme%20so%20far.</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1637" y="919" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="29" locked="false" isInGroup="-1"/>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Title" x="1736" y="1116" w="-1" h="-1" measuredW="230" measuredH="43" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Host%20Profiles</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="2163" y="919" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Title" x="2224" y="1116" w="-1" h="-1" measuredW="328" measuredH="43" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Network%20Schedule</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="2713" y="919" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="33" locked="false" isInGroup="-1"/>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Title" x="2646" y="1116" w="-1" h="-1" measuredW="585" measuredH="43" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Project%20Page/Mission%20Statement</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::HRule" x="307" y="1610" w="1127" h="-1" measuredW="100" measuredH="10" zOrder="35" locked="false" isInGroup="-1"/>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Title" x="754" y="1667" w="-1" h="-1" measuredW="160" measuredH="43" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FOOTER</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

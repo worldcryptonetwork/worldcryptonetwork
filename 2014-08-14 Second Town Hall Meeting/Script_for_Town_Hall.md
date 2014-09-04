@@ -17,6 +17,8 @@ Introduction to WCN Trello Board, sign up if you get time, suggest your own
 
 5. Torrents of shows, who wants to start seeding?
 
+6. Find licence free music
+
 
 ### Bits Be Trippin’ would like to raise the following:
 

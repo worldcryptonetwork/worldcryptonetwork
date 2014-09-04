@@ -19,3 +19,22 @@ You can learn how to create a multi-sig address in [Armory here](http://vimeo.co
 
 ### David Gilson
 045d41315693e0987bb633a7aebfe61714d9c5a7f74bf72d861235f66ecdbceda8b68d6a59e45ed02439649bc55d54b08dd9a34bdd17321463ccdcbf0f0be2724a
+
+—
+
+=====LOCKBOX-SVDj5Wce===========================================
+AQAAAPm+tNmjQu1TAAAAABNXQ04gNiBvZiA3IFNlcmllcyBBAAYHWgEAAAD5vrTZ
+QQQRssI3kCVYERZVCXtaTJZDtl7K9t7XAWU42NQzoWCEl8tzK0+kbo63XI3UfNR5
+TRCbZQXn2CM9KhuDqpMME0pADFRoZW8gR29vZG1hbgAAAFkBAAAA+b602UEEPYB3
+FRV+SCLEEt/ygSyrlP3d6TVkjc1P6l6NhrAFUNGMX3YZ1P95gMk1xfBmd4pvv1X9
+VievlsymdPR8WoBdFgtDaHJpcyBFbGxpcwAAAFcBAAAA+b602UEEQLZ6Ri9lvJ7E
+3NEtVxi5gGy3HqNExH3OK4TPAVTxp+AXfptZAFvYod+uZvO86WeJDh0Bbw7GySuJ
+IToeeVkwCglQaWUgUmViZWwAAABaAQAAAPm+tNlBBFfM/vdB9UGFyMiR9+DvNQti
+LS42ARLG7kVtz36qdTg/JJpFhmFT7XyYTwmjs682f0GvK21HqRfjxyFYuroDnyYM
+V2lsbCBQYW5nbWFuAAAAWgEAAAD5vrTZQQRdQTFWk+CYe7Yzp66/5hcU2cWn90v3
+LYYSNfZuzbztqLaNalnkXtAkOWSbxV1UsI3Zo0vdFzIUY8zcvw8L4nJKDERhdmlk
+IEdpbHNvbgAAAFgBAAAA+b602UEEbatrY7k7y9FfEdr8mUSECi+MvaBn9u7228tJ
+L3bqdQS6p1/PonsuHngVO8sel6/g9UPpcZ4gO9CFsWQZc4HC/QpQaHJhIExld2lz
+AAAAVgEAAAD5vrTZQQSIE4vR/J/8xqSNmzBuigNsYUxDxnsAPkz3Yf6VX15mHMli
+YGkGbh5Y168Vb038kuUCgn+UHUajIX1zg+W0FQRRCERlcnJpY2tKAAAA
+================================================================
